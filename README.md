@@ -6,3 +6,5 @@ The data is organized at the top level by grasped object, then by trial. Each tr
 The IMU data and machine learning features and labels are also available within each trial folder. The machine learning labels are presented as a list of four boolean values, each of which corresponds to one of the thresholds from the manuscript. The first index represents 0.25 cm/s, the second 0.5 cm/s, the third 0.75 cm/s, and the fourth 1.0 cm/s.
 
 The original output from the Optitrack is also available in its own folder. There is one .csv file per trial of Optitrack data.
+
+Finally, the folders for each grasped object are additionally available as .zip files for easier download.
